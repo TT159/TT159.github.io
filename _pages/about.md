@@ -17,6 +17,17 @@ I am passionate about exploring more efficient feature selection algorithms and 
 
 You can find my CV here: [CV](../assets/TianTan.pdf).
 
+Publications
+======
+* Subrota Kumar Mondal*, Tian Tan*, Sadia Khanam, Keshav Kumar, Hussain Mohammed Dipu Kabir, Kan Ni.  <br>
+  Security Quantification of Container-Technology-Driven E-Government Systems  <br>
+  Electronics, 2023. [Paper](https://www.mdpi.com/2079-9292/12/5/1238) <br>
+* Subrota Kumar Mondal, Rui Pan, H M Dipu Kabir, Tan Tian, Hong-Ning Dai. <br>
+  Kubernetes in IT Administration and Serverless Computing: An empirical study and research challenges   
+  The Journal of Supercomputing, 2022. [Paper](https://link.springer.com/article/10.1007/s11227-021-03982-3)
+
+_**Note**: * above denotes equal contribution_
+
 <!--
 A data-driven personal website
 ======
