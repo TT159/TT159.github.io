@@ -1,4 +1,5 @@
 # main links links
+<!--
 main:
   - title: "Publications"
     url: /publications/
@@ -20,3 +21,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+-->
