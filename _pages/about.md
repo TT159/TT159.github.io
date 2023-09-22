@@ -15,6 +15,8 @@ Before joining Boston University, I obtained my B.S. degree in Computer Technolo
 
 I am passionate about exploring more efficient feature selection algorithms and trustworthy machine learning models to help people mine valuable information from large and complex data sets. My research motivations are all human-centered, and I hope to use artificial intelligence to make people better perceive and utilize data. My ultimate goal is that everyone can obtain meaningful information from large amounts of data simply by interacting with a computer.
 
+You can find my CV here: [CV](../assets/TianTan.pdf).
+
 <!--
 A data-driven personal website
 ======
