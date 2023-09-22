@@ -13,7 +13,7 @@ I received my master's degree in Electrical and Computer Engineering from the Co
 
 Before joining Boston University, I obtained my B.S. degree in Computer Technology and Application at Macau University of Science and Technology (MUST). I graduated with first-class honors and my thesis was awarded as one of the best in the college. During this period, I was honored to be mentored by [Prof. Subrota Kumar Mondal](https://www.must.edu.mo/scse/staff/subrota) and collaborate with [Prof. Hongning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) to conduct research in the fields of serverless computing and container technology.
 
-I am passionate about exploring more efficient feature selection algorithms and trustworthy machine learning models to help people mine valuable information from large and complex data sets. My research motivations are all human-centered, and I hope to use artificial intelligence to make people better perceive and utilize data. My ultimate goal is that everyone can obtain meaningful information from large amounts of data simply by interacting with a computer.
+I am passionate about exploring more efficient feature selection algorithms and trustworthy machine learning models to help people mine valuable information from large and complex data sets. My research motivations are all human-centered, and I hope to use artificial intelligence to make people better perceive and utilize data. My ultimate goal is that everyone can derive meaningful information from large amounts of data through simple interaction with a computer.
 
 You can find my CV here: [CV](../assets/TianTan.pdf).
 
