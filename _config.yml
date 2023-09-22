@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Tan/Personal Homepage"
+title                    : "Tian Tan"
 title_separator          : "-"
 name                     : &name "Tian Tan"
 description              : &description "Social Media Analyst at Boston USWOO LLC"
