@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+I received my master's degree in Electrical and Computer Engineering from the College of Engineering, [Boston University](https://www.bu.edu/eng/). I was very fortunate to be advised by [Prof. Koo](https://www.bumc.bu.edu/camed/profile/bang-bon-koo/) and work as a research assistant in the Bio-Imaging & Informatics Lab from School of Medicine, Boston University. My research interest includes Machine Learning, Data Analysis and Human-computer Interaction.
+
+Before joining Boston University, I obtained my B.S. degree in Computer Technology and Application at Macau University of Science and Technology (MUST). I graduated with first-class honors and my thesis was awarded as one of the best in the college. During this period, I was honored to be mentored by [Prof. Subrota Kumar Mondal](https://www.must.edu.mo/scse/staff/subrota) and collaborate with [Prof. Hongning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) to conduct research in the fields of serverless computing and container technology.
+
+I am passionate about exploring more efficient feature selection algorithms and trustworthy machine learning models to help people mine valuable information from large and complex data sets. My research motivations are all human-centered, and I hope to use artificial intelligence to make people better perceive and utilize data. My ultimate goal is that everyone can obtain meaningful information from large amounts of data simply by interacting with a computer.
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -48,3 +54,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
