@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I received my master's degree in Electrical and Computer Engineering from the College of Engineering, [Boston University](https://www.bu.edu/eng/). I was very fortunate to be advised by [Prof. Koo](https://www.bumc.bu.edu/camed/profile/bang-bon-koo/) and work as a research assistant in the Bio-Imaging & Informatics Lab from School of Medicine, Boston University. My research interest includes Machine Learning, Data Analysis and Human-computer Interaction.
+I received my master's degree in Electrical and Computer Engineering from the College of Engineering, [Boston University](https://www.bu.edu/eng/). I was very fortunate to be supervised by [Prof. Prakash Ishwar](https://www.bu.edu/eng/profile/prakash-ishwar/) as a teaching assistant in his _Introduction to Machine Learning_ course. After graduation, I worked as a research assistant in the [Bio-Imaging & Informatics Lab](https://sites.bu.edu/bil/) under the guidance of [Prof. Bang-Bon Koo](https://www.bumc.bu.edu/camed/profile/bang-bon-koo/). My research interest includes Machine Learning, Data Analysis and Human-computer Interaction.
 
 Before joining Boston University, I obtained my B.S. degree in Computer Technology and Application at Macau University of Science and Technology (MUST). I graduated with first-class honors and my thesis was awarded as one of the best in the college. During this period, I was honored to be mentored by [Prof. Subrota Kumar Mondal](https://www.must.edu.mo/scse/staff/subrota) and collaborate with [Prof. Hongning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) to conduct research in the fields of serverless computing and container technology.
 
