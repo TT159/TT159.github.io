@@ -25,7 +25,16 @@ Publications
 * Subrota Kumar Mondal, Rui Pan, H M Dipu Kabir, __Tan Tian__, Hong-Ning Dai. <br>
   Kubernetes in IT Administration and Serverless Computing: An empirical study and research challenges   
   The Journal of Supercomputing, 2022. [Paper](https://link.springer.com/article/10.1007/s11227-021-03982-3)
-
+* Tian Tan, Xuepin Ma, Jun Liu, Zuren Li  
+  Photocatalytic Degradation of Residual Orthene in Vegetables by Nano-TiO2  
+  China Science & Technology Education, 2017.   
+* Tian Tan  
+  An Analysis on Canceling the Division of Liberal Arts and Sciences in the College Entrance Examination  
+  Culture And History Vision (Theory), 2016.  
+* Tian Tan, Ruiming Zhou  
+  Thoughts on Reform of China's Personal Income Tax System  
+  Modern SOE Research, 2016.  
+  
 _**Note**: * above denotes equal contribution_
 
 <!--
